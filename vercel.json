@@ -1,0 +1,1 @@
+{"framework":null,"buildCommand":"","outputDirectory":".","functions":{"api/*.js":{"maxDuration":60}},"headers":[{"source":"/server/:path*","headers":[{"key":"Cache-Control","value":"no-store"}]}],"rewrites":[{"source":"/server/:path*","destination":"/404.html"},{"source":"/database.sql","destination":"/404.html"},{"source":"/SETUP.md","destination":"/404.html"}]}
